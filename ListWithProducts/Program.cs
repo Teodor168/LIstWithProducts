@@ -68,7 +68,7 @@
         {
             if (shoppingList.Count > 0)
             {
-                int index = 1;
+                int index = 0;
                 foreach (string product in shoppingList)
                 {
                     index++;
