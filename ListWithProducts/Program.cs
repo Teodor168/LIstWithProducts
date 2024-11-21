@@ -71,7 +71,8 @@
                 int index = 1;
                 foreach (string product in shoppingList)
                 {
-                    Console.WriteLine($"{index++}- {product}");
+                    index++;
+                    Console.WriteLine($"{index}- {product}");
                 }
             }
             else
