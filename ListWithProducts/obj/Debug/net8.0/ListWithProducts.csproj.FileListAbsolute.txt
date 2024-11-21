@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\bin\Debug\net8.0\ListWithProducts.exe
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\bin\Debug\net8.0\ListWithProducts.deps.json
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\bin\Debug\net8.0\ListWithProducts.runtimeconfig.json
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\bin\Debug\net8.0\ListWithProducts.dll
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\bin\Debug\net8.0\ListWithProducts.pdb
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.dll
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\refint\ListWithProducts.dll
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.pdb
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ListWithProducts.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\ListWithProducts\ListWithProducts\obj\Debug\net8.0\ref\ListWithProducts.dll
